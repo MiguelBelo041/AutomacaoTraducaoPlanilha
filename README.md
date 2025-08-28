@@ -93,6 +93,6 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ---
 
-**Desenvolvido por:** [Seu Nome/Organização]
+**Desenvolvido por:** Miguel Junior Belo
 **Versão:** 1.0.0
-**Última atualização:** Dezembro 2024
+**Última atualização:** Julho 2025
