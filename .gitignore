@@ -1,0 +1,29 @@
+# Arquivos executáveis grandes
+*.exe
+*.zip
+
+# Cache de traduções (pode ser recriado)
+traducoes_cache.json
+
+# Arquivos temporários do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Arquivos de log
+*.log
+
+# Arquivos de backup
+*.bak
+*.backup
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de planilha traduzidos (podem ser recriados)
+Planilha traduzida/
+
+# Arquivos de configuração local
+.env
+config.local.json
